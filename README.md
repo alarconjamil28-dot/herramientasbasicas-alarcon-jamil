@@ -43,7 +43,7 @@ El análisis se desarrolló en las siguientes etapas:
 
 📎 Notebook: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/blob/main/notebooks/analisis.ipynb
 📎 Dataset CSV: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/tree/main/data/raw/readme
-📎 Dashboard: (agregar link o imagen aquí)
+📎 Dashboard: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/blob/main/dashboard/dashboard.png
 
 ---
 
