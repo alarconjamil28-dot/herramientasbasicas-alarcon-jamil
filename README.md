@@ -42,7 +42,7 @@ El análisis se desarrolló en las siguientes etapas:
 5. Visualización de resultados mediante gráficos y dashboard en Power BI.
 
 📎 Notebook: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/blob/main/notebooks/analisis.ipynb
-📎 Dataset CSV: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/tree/main/data/raw/readme
+📎 Dataset CSV: https: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/blob/main/data/raw/README.md
 📎 Dashboard: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/blob/main/dashboard/dashboard.png
 
 ---
