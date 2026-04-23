@@ -27,7 +27,7 @@ Incluye variables como:
 * Country (país)
 
 📎 Fuente del dataset:
-https://www.kaggle.com/datasets
+https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 ---
 
