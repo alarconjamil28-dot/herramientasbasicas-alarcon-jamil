@@ -1,9 +1,16 @@
-# 📂 Dataset
+## 📂 Dataset
 
-El dataset utilizado en este proyecto no se incluye directamente en el repositorio debido a su tamaño.
+Se utilizó el dataset **Online Retail**, que contiene información de transacciones realizadas en una tienda online.
 
-Puede ser descargado desde el siguiente enlace:
+Incluye variables como:
 
+* InvoiceNo (factura)
+* Description (producto)
+* Quantity (cantidad)
+* UnitPrice (precio)
+* InvoiceDate (fecha)
+* CustomerID (cliente)
+* Country (país)
+
+📎 Fuente del dataset:
 https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
-
-Este dataset contiene información de transacciones de una tienda online, incluyendo productos, clientes, precios, fechas y países.
