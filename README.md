@@ -63,6 +63,9 @@ Además, incluye visualizaciones como:
 * Top clientes
 
 Esto permite analizar la información de manera clara e interactiva.
+## 📊 Vista del Dashboard
+
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
