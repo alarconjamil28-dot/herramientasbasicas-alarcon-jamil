@@ -41,7 +41,7 @@ El análisis se desarrolló en las siguientes etapas:
 4. Análisis exploratorio (EDA) para identificar patrones en ventas, productos, clientes y países.
 5. Visualización de resultados mediante gráficos y dashboard en Power BI.
 
-📎 Notebook: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/tree/main/data/raw
+📎 Notebook: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/blob/main/notebooks/analisis.ipynb
 📎 Dataset CSV: https://github.com/alarconjamil28-dot/herramientasbasicas-alarcon-jamil/blob/main/notebooks/analisis.ipynb
 📎 Dashboard: (agregar link o imagen aquí)
 
